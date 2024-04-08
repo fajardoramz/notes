@@ -5,3 +5,4 @@
 - [Notes on WTP for insurance based on Veiga and Weyl (2016)](https://nbviewer.org/github/fajardoramz/notes/blob/main/wtp-insurance.ipynb)
 - [Wooldridge on Treatment Effects](https://nbviewer.org/github/fajardoramz/notes/blob/main/wool_te.ipynb)
 - [Wooldridge (2021) implementation of TE estimators with panel data](https://nbviewer.org/github/fajardoramz/notes/blob/main/wool_dd.ipynb)
+- [Wooldridge on RDD designs](https://nbviewer.org/github/fajardoramz/notes/blob/main/rdd.ipynb)
